@@ -1,0 +1,13 @@
+{
+    "name": "Protractor-data-driven-test1",
+
+"scripts": {
+    "test-regular": "Protractor ToDo-Test-Config.js",
+    "test-DD1": "Protractor DataDriven-config1.js",
+    "test-DD2": "Protractor DataDriven-config2.js"   
+  },       
+     
+    "devDependencies": {       
+        "jasmine-data-provider": "^2.2.0"        
+    }    
+}
